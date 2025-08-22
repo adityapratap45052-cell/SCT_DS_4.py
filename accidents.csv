@@ -1,0 +1,6 @@
+Accident_ID,Weather_Condition,Time,Road_Condition,Severity
+1,Clear,Morning,Dry,Low
+2,Rain,Evening,Wet,High
+3,Fog,Night,Wet,Medium
+4,Clear,Afternoon,Dry,Low
+5,Snow,Night,Snow,High
